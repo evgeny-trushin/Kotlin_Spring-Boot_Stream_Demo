@@ -1,0 +1,6 @@
+GET http://{{host}}/counter-api/top/10
+Content-Type: application/json
+Accept: text/csv
+Authorization: Basic dGVzdDpjYW5kaWRhdGVz
+
+###

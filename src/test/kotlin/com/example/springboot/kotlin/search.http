@@ -1,0 +1,8 @@
+POST http://{{host}}/counter-api/search
+Content-Type: application/json
+Accept: application/json
+Authorization: Basic dGVzdDpjYW5kaWRhdGVz
+
+{"searchText":["Duis", "Sed", "Donec", "Augue", "Pellentesque", "123"]}
+
+###
